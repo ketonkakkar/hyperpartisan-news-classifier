@@ -1,0 +1,265 @@
+Embeded sentences: 0test data metrics:
+
+    32/100000 [..............................] - ETA: 43:22
+   128/100000 [..............................] - ETA: 12:24
+  1536/100000 [..............................] - ETA: 1:04 
+  2720/100000 [..............................] - ETA: 37s 
+  3840/100000 [>.............................] - ETA: 27s
+  5024/100000 [>.............................] - ETA: 21s
+  6112/100000 [>.............................] - ETA: 18s
+  7136/100000 [=>............................] - ETA: 16s
+  8224/100000 [=>............................] - ETA: 14s
+  9312/100000 [=>............................] - ETA: 13s
+ 10336/100000 [==>...........................] - ETA: 12s
+ 11360/100000 [==>...........................] - ETA: 11s
+ 12416/100000 [==>...........................] - ETA: 10s
+ 13504/100000 [===>..........................] - ETA: 10s
+ 14624/100000 [===>..........................] - ETA: 9s 
+ 15680/100000 [===>..........................] - ETA: 8s
+ 16768/100000 [====>.........................] - ETA: 8s
+ 17760/100000 [====>.........................] - ETA: 8s
+ 18848/100000 [====>.........................] - ETA: 7s
+ 19904/100000 [====>.........................] - ETA: 7s
+ 20960/100000 [=====>........................] - ETA: 7s
+ 21984/100000 [=====>........................] - ETA: 6s
+ 23040/100000 [=====>........................] - ETA: 6s
+ 24096/100000 [======>.......................] - ETA: 6s
+ 25152/100000 [======>.......................] - ETA: 6s
+ 26240/100000 [======>.......................] - ETA: 6s
+ 27232/100000 [=======>......................] - ETA: 5s
+ 28256/100000 [=======>......................] - ETA: 5s
+ 29312/100000 [=======>......................] - ETA: 5s
+ 30464/100000 [========>.....................] - ETA: 5s
+ 31584/100000 [========>.....................] - ETA: 5s
+ 32640/100000 [========>.....................] - ETA: 5s
+ 33696/100000 [=========>....................] - ETA: 4s
+ 34752/100000 [=========>....................] - ETA: 4s
+ 35840/100000 [=========>....................] - ETA: 4s
+ 36864/100000 [==========>...................] - ETA: 4s
+ 37952/100000 [==========>...................] - ETA: 4s
+ 39008/100000 [==========>...................] - ETA: 4s
+ 40064/100000 [===========>..................] - ETA: 4s
+ 41152/100000 [===========>..................] - ETA: 4s
+ 42272/100000 [===========>..................] - ETA: 4s
+ 43328/100000 [===========>..................] - ETA: 3s
+ 44416/100000 [============>.................] - ETA: 3s
+ 45472/100000 [============>.................] - ETA: 3s
+ 46528/100000 [============>.................] - ETA: 3s
+ 47584/100000 [=============>................] - ETA: 3s
+ 48640/100000 [=============>................] - ETA: 3s
+ 49696/100000 [=============>................] - ETA: 3s
+ 50784/100000 [==============>...............] - ETA: 3s
+ 51840/100000 [==============>...............] - ETA: 3s
+ 52896/100000 [==============>...............] - ETA: 3s
+ 53984/100000 [===============>..............] - ETA: 2s
+ 55040/100000 [===============>..............] - ETA: 2s
+ 56160/100000 [===============>..............] - ETA: 2s
+ 57248/100000 [================>.............] - ETA: 2s
+ 58272/100000 [================>.............] - ETA: 2s
+ 59328/100000 [================>.............] - ETA: 2s
+ 60480/100000 [=================>............] - ETA: 2s
+ 61568/100000 [=================>............] - ETA: 2s
+ 62624/100000 [=================>............] - ETA: 2s
+ 63648/100000 [==================>...........] - ETA: 2s
+ 64672/100000 [==================>...........] - ETA: 2s
+ 65760/100000 [==================>...........] - ETA: 2s
+ 66816/100000 [===================>..........] - ETA: 2s
+ 67808/100000 [===================>..........] - ETA: 1s
+ 68800/100000 [===================>..........] - ETA: 1s
+ 69856/100000 [===================>..........] - ETA: 1s
+ 70880/100000 [====================>.........] - ETA: 1s
+ 71936/100000 [====================>.........] - ETA: 1s
+ 72992/100000 [====================>.........] - ETA: 1s
+ 74016/100000 [=====================>........] - ETA: 1s
+ 75072/100000 [=====================>........] - ETA: 1s
+ 76128/100000 [=====================>........] - ETA: 1s
+ 77152/100000 [======================>.......] - ETA: 1s
+ 78208/100000 [======================>.......] - ETA: 1s
+ 79232/100000 [======================>.......] - ETA: 1s
+ 80320/100000 [=======================>......] - ETA: 1s
+ 81376/100000 [=======================>......] - ETA: 1s
+ 82432/100000 [=======================>......] - ETA: 1s
+ 83456/100000 [========================>.....] - ETA: 0s
+ 84480/100000 [========================>.....] - ETA: 0s
+ 85536/100000 [========================>.....] - ETA: 0s
+ 86560/100000 [========================>.....] - ETA: 0s
+ 87616/100000 [=========================>....] - ETA: 0s
+ 88672/100000 [=========================>....] - ETA: 0s
+ 89696/100000 [=========================>....] - ETA: 0s
+ 90720/100000 [==========================>...] - ETA: 0s
+ 91808/100000 [==========================>...] - ETA: 0s
+ 92896/100000 [==========================>...] - ETA: 0s
+ 93952/100000 [===========================>..] - ETA: 0s
+ 95008/100000 [===========================>..] - ETA: 0s
+ 96160/100000 [===========================>..] - ETA: 0s
+ 97312/100000 [============================>.] - ETA: 0s
+ 98432/100000 [============================>.] - ETA: 0s
+ 99520/100000 [============================>.] - ETA: 0s
+100000/100000 [==============================] - 6s 57us/step
+accuracy: 0.53687
+100percentfedup.com
+accuracy: 0.0
+ahtribune.com
+accuracy: 0.0
+americablog.com
+accuracy: 0.0
+americannews.com
+accuracy: 0.0
+americannewsx.com
+accuracy: 0.0
+americanpatriotdaily.com
+accuracy: 0.0
+americantruepatriots.com
+accuracy: 0.0
+angelagrahamwest.org
+accuracy: 0.0
+barbwire.com
+accuracy: 0.0
+biggovernment.news
+accuracy: 0.0
+bigleaguepolitics.com
+accuracy: 0.0
+blacklistednews.com
+accuracy: 0.0
+breitbart.com
+accuracy: 0.0
+bullshido.net
+accuracy: 1.0
+businessinsider.com
+accuracy: 1.0
+c4ss.org
+accuracy: 0.0
+cfr.org
+accuracy: 1.0
+chicago.suntimes.com
+accuracy: 1.0
+cjr.org
+accuracy: 1.0
+constitution.com
+accuracy: 0.0
+countercurrents.org
+accuracy: 0.0
+cscmediagroupus.com
+accuracy: 0.0
+dailykos.com
+accuracy: 0.0
+federalistpress.com
+accuracy: 0.0
+frontpagemag.com
+accuracy: 0.0
+gatestoneinstitute.org
+accuracy: 0.0
+gotnews.com
+accuracy: 0.0
+govtslaves.info
+accuracy: 0.0
+grist.org
+accuracy: 1.0
+hillary4prisoner.com
+accuracy: 0.0
+ifyouonlynews.com
+accuracy: 0.0
+informationclearinghouse.info
+accuracy: 0.0
+intrepidreport.com
+accuracy: 0.0
+ipatriot.com
+accuracy: 0.0
+lawandcrime.com
+accuracy: 1.0
+leftscoop.com
+accuracy: 0.0
+libertyblitzkrieg.com
+accuracy: 0.0
+libertyjuice.com
+accuracy: 0.0
+lifezette.com
+accuracy: 0.0
+limacharlienews.com
+accuracy: 1.0
+lynx.media
+accuracy: 1.0
+madworldnews.com
+accuracy: 0.0
+michellemalkin.com
+accuracy: 0.0
+nationalinsiderpolitics.com
+accuracy: 0.0
+newsbusters.org
+accuracy: 0.0
+newshounds.us
+accuracy: 0.0
+newsmax.com
+accuracy: 0.0
+nytimes.com
+accuracy: 1.0
+patriotoutdoornews.com
+accuracy: 0.0
+pjmedia.com
+accuracy: 0.0
+politicususa.com
+accuracy: 0.0
+prospect.org
+accuracy: 0.0
+rawstory.com
+accuracy: 0.0
+realclearpolitics.com
+accuracy: 0.0
+redalertpolitics.com
+accuracy: 0.0
+restoreamericanglory.com
+accuracy: 0.0
+samuel-warde.com
+accuracy: 0.0
+sfgate.com
+accuracy: 1.0
+snopes.com
+accuracy: 1.0
+spectator.org
+accuracy: 0.0
+texastribune.org
+accuracy: 1.0
+the-american-interest.com
+accuracy: 1.0
+thecollegefix.com
+accuracy: 0.0
+theconservativerepublic.org
+accuracy: 0.0
+thedailybanter.com
+accuracy: 0.0
+thegatewaypundit.com
+accuracy: 0.0
+theimmoralminority.blogspot.com
+accuracy: 0.0
+theknifemedia.com
+accuracy: 1.0
+themoderatevoice.com
+accuracy: 1.0
+thenewscommenter.com
+accuracy: 0.0
+therightscoop.com
+accuracy: 0.0
+tmn.today
+accuracy: 0.0
+truepundit.com
+accuracy: 0.0
+trumptrainnews.com
+accuracy: 0.0
+truthexam.com
+accuracy: 0.0
+twitchy.com
+accuracy: 0.0
+tytnetwork.com
+accuracy: 0.0
+usasupreme.com
+accuracy: 0.0
+vdare.com
+accuracy: 0.0
+veteransnewsnow.com
+accuracy: 0.0
+vox.com
+accuracy: 0.0
+westernjournalism.com
+accuracy: 0.0
+wonkette.com
+accuracy: 0.0

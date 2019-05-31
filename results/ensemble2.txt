@@ -1,0 +1,4 @@
+x.shape= (?, 128)
+model.x = (?, 32, 128)
+model.y = (?, 2)
+Adam with norm clipping.

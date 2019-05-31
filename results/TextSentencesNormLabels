@@ -1,0 +1,479 @@
+x.shape= (?, 128)
+model.x = (?, 32, 128)
+model.y = (?, 2)
+Adam with norm clipping.
+relabeled: 0.0
+21stcenturywire.com
+current label: 1
+relabeled: 0.0
+24dailynew.com
+current label: 1
+relabeled: 0.0
+4threvolutionarywar.wordpress.com
+current label: 1
+relabeled: 0.0
+abc11.com
+current label: 0
+relabeled: 0.0
+abqjournal.com
+current label: 0
+relabeled: 0.0
+aclj.org
+current label: 1
+relabeled: 0.0
+addictinginfo.org
+current label: 1
+relabeled: 0.0
+againstcronycapitalism.org
+current label: 1
+relabeled: 0.0
+aim.org
+current label: 1
+relabeled: 0.0
+alternet.org
+current label: 1
+relabeled: 0.0
+americanactionnews.com
+current label: 1
+relabeled: 0.0
+americanupdate.com
+current label: 1
+relabeled: 0.0
+americauncensored.com
+current label: 1
+relabeled: 0.0
+angrypatriotmovement.com
+current label: 1
+relabeled: 0.0
+anncoulter.com
+current label: 1
+relabeled: 0.0
+apnews.com
+current label: 0
+relabeled: 0.0
+baptistnews.com
+current label: 0
+relabeled: 0.0
+bb4sp.com
+current label: 1
+relabeled: 0.0
+beforeitsnews.com
+current label: 1
+relabeled: 0.0
+belfercenter.org
+current label: 0
+relabeled: 0.0
+bettergov.org
+current label: 0
+relabeled: 0.0
+bigamericannews.com
+current label: 1
+relabeled: 0.0
+bipartisanreport.com
+current label: 1
+relabeled: 0.0
+bizpacreview.com
+current label: 1
+relabeled: 0.0
+bluenationreview.com
+current label: 1
+relabeled: 0.0
+bluetribune.com
+current label: 1
+relabeled: 0.0
+bulletsfirst.net
+current label: 1
+relabeled: 0.0
+calwatchdog.com
+current label: 0
+relabeled: 0.0
+capoliticalreview.com
+current label: 0
+relabeled: 0.0
+chicagoreporter.com
+current label: 0
+relabeled: 0.0
+circa.com
+current label: 0
+relabeled: 0.0
+comicallyincorrect.com
+current label: 1
+relabeled: 0.0
+conservativedeplorable.com
+current label: 1
+relabeled: 0.0
+conservativefiringline.com
+current label: 1
+relabeled: 0.0
+conservativerevival.com
+current label: 1
+relabeled: 0.0
+counterpunch.org
+current label: 1
+relabeled: 0.0
+crooksandliars.com
+current label: 1
+relabeled: 0.0
+dailywire.com
+current label: 1
+relabeled: 0.0
+danaloeschradio.com
+current label: 1
+relabeled: 0.0
+dcclothesline.com
+current label: 1
+relabeled: 0.0
+deadstate.org
+current label: 1
+relabeled: 0.0
+democracyjournal.org
+current label: 1
+relabeled: 0.0
+dissentmagazine.org
+current label: 1
+relabeled: 0.0
+eaglerising.com
+current label: 1
+relabeled: 0.0
+egbertowillies.com
+current label: 1
+relabeled: 0.0
+eppc.org
+current label: 0
+relabeled: 0.0
+equalvoiceforfamilies.org
+current label: 1
+relabeled: 0.0
+everydayfeminism.com
+current label: 1
+relabeled: 0.0
+factcheck.org
+current label: 0
+relabeled: 0.0
+fair.org
+current label: 1
+relabeled: 0.0
+feministing.com
+current label: 1
+relabeled: 0.0
+foreignpolicyjournal.com
+current label: 0
+relabeled: 0.0
+forwardprogressives.com
+current label: 1
+relabeled: 0.0
+foxbusiness.com
+current label: 1
+relabeled: 0.0
+freebeacon.com
+current label: 1
+relabeled: 0.0
+freedomfirst.news
+current label: 1
+relabeled: 0.0
+freedomforce.com
+current label: 1
+relabeled: 0.0
+freedomsfinalstand.com
+current label: 1
+relabeled: 0.0
+fury.news
+current label: 1
+relabeled: 0.0
+girlsjustwannahaveguns.com
+current label: 1
+relabeled: 0.0
+greensboro.com
+current label: 0
+relabeled: 0.0
+hangthebankers.com
+current label: 1
+relabeled: 0.0
+humanevents.com
+current label: 1
+relabeled: 0.0
+infowars.com
+current label: 1
+relabeled: 0.0
+inthesetimes.com
+current label: 1
+relabeled: 0.0
+ivn.us
+current label: 0
+relabeled: 0.0
+jacobinmag.com
+current label: 1
+relabeled: 0.0
+joemygod.com
+current label: 1
+relabeled: 0.0
+juancole.com
+current label: 1
+relabeled: 0.0
+latimes.com
+current label: 0
+relabeled: 0.0
+latinorebels.com
+current label: 1
+relabeled: 0.0
+leftvoice.org
+current label: 1
+relabeled: 0.0
+legalinsurrection.com
+current label: 1
+relabeled: 0.0
+liberalplug.com
+current label: 1
+relabeled: 0.0
+libertyfederation.org
+current label: 1
+relabeled: 0.0
+libertyviral.com
+current label: 0
+relabeled: 0.0
+louderwithcrowder.com
+current label: 1
+relabeled: 0.0
+mainebeacon.com
+current label: 0
+relabeled: 0.0
+mediafiledc.com
+current label: 0
+relabeled: 0.0
+mediaite.com
+current label: 1
+relabeled: 0.0
+mediamatters.org
+current label: 1
+relabeled: 0.0
+menrec.com
+current label: 1
+relabeled: 0.0
+mercurynews.com
+current label: 0
+relabeled: 0.0
+motherjones.com
+current label: 1
+relabeled: 0.0
+mprnews.org
+current label: 0
+relabeled: 0.0
+mrc.org
+current label: 1
+relabeled: 0.0
+natmonitor.com
+current label: 0
+relabeled: 0.0
+nbcnews.com
+current label: 0
+relabeled: 0.0
+newpol.org
+current label: 1
+relabeled: 0.0
+newsandguts.com
+current label: 0
+relabeled: 0.0
+newscorpse.com
+current label: 1
+relabeled: 0.0
+newsline.com
+current label: 0
+relabeled: 0.0
+newstarget.com
+current label: 1
+relabeled: 0.0
+nolabels.org
+current label: 0
+relabeled: 0.0
+nowtheendbegins.com
+current label: 1
+relabeled: 0.0
+occupy.com
+current label: 1
+relabeled: 0.0
+occupydemocrats.com
+current label: 1
+relabeled: 0.0
+offthemainpage.com
+current label: 1
+relabeled: 0.0
+patriotretort.com
+current label: 1
+relabeled: 0.0
+pewresearch.org
+current label: 0
+relabeled: 0.0
+politicalblindspot.com
+current label: 1
+relabeled: 0.0
+politicalillusionsexposed.com
+current label: 1
+relabeled: 0.0
+politichicks.com
+current label: 1
+relabeled: 0.0
+politifact.com
+current label: 0
+relabeled: 0.0
+powderedwigsociety.com
+current label: 1
+relabeled: 0.0
+powerlineblog.com
+current label: 1
+relabeled: 0.0
+poynter.org
+current label: 0
+relabeled: 0.0
+pri.org
+current label: 0
+relabeled: 0.0
+reclaimdemocracy.org
+current label: 1
+relabeled: 0.0
+resistancereport.com
+current label: 1
+relabeled: 0.0
+reuters.com
+current label: 0
+relabeled: 0.0
+revealingpolitics.com
+current label: 1
+relabeled: 0.0
+reviewjournal.com
+current label: 0
+relabeled: 0.0
+rightwingnews.com
+current label: 1
+relabeled: 0.0
+rightwingwatch.org
+current label: 1
+relabeled: 0.0
+rinf.com
+current label: 1
+relabeled: 0.0
+rushlimbaugh.com
+current label: 1
+relabeled: 0.0
+santafenewmexican.com
+current label: 0
+relabeled: 0.0
+secretsofthefed.com
+current label: 1
+relabeled: 0.0
+sfchronicle.com
+current label: 0
+relabeled: 0.0
+shark-tank.com
+current label: 1
+relabeled: 0.0
+silenceisconsent.net
+current label: 1
+relabeled: 0.0
+spartareport.com
+current label: 1
+relabeled: 0.0
+studionewsnetwork.com
+current label: 0
+relabeled: 0.0
+talkingpointsmemo.com
+current label: 1
+relabeled: 0.0
+tammybruce.com
+current label: 1
+relabeled: 0.0
+teaparty.org
+current label: 1
+relabeled: 0.0
+theamericancause.org
+current label: 1
+relabeled: 0.0
+theamericanmirror.com
+current label: 1
+relabeled: 0.0
+thedailybeast.com
+current label: 1
+relabeled: 0.0
+thefederalistpapers.org
+current label: 1
+relabeled: 0.0
+thefrisky.com
+current label: 1
+relabeled: 0.0
+thegoldwater.com
+current label: 1
+relabeled: 0.0
+thenewcivilrightsmovement.com
+current label: 1
+relabeled: 0.0
+thepeoplesview.net
+current label: 1
+relabeled: 0.0
+thepoliticalinsider.com
+current label: 1
+relabeled: 0.0
+thepopulist.buzz
+current label: 1
+relabeled: 0.0
+therealnews.com
+current label: 1
+relabeled: 0.0
+therealside.com
+current label: 1
+relabeled: 0.0
+therebel.media
+current label: 1
+relabeled: 0.0
+theroot.com
+current label: 1
+relabeled: 0.0
+thetrace.org
+current label: 0
+relabeled: 0.0
+thewhim.com
+current label: 0
+relabeled: 0.0
+thinkprogress.org
+current label: 1
+relabeled: 0.0
+towleroad.com
+current label: 1
+relabeled: 0.0
+trofire.com
+current label: 1
+relabeled: 0.0
+truthdig.com
+current label: 1
+relabeled: 0.0
+truthrevolt.org
+current label: 1
+relabeled: 0.0
+upi.com
+current label: 0
+relabeled: 0.0
+upworthy.com
+current label: 1
+relabeled: 0.0
+usainfonews.com
+current label: 1
+relabeled: 0.0
+valleynewslive.com
+current label: 0
+relabeled: 0.0
+washingtonblade.com
+current label: 0
+relabeled: 0.0
+washingtonmonthly.com
+current label: 1
+relabeled: 0.0
+washingtonpost.com
+current label: 0
+relabeled: 0.0
+washingtontimes.com
+current label: 1
+relabeled: 0.0
+wnyc.org
+current label: 0
+relabeled: 0.0
+yesmagazine.org
+current label: 1
+relabeled: 0.0

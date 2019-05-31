@@ -1,0 +1,1695 @@
+test data metrics:
+accuracy: 0.6283333333333333
+f1: 0.5077262693156732
+confusion matrix:
+[[262 117]
+ [106 115]]
+
+100percentfedup.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+10tv.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+411mania.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+abc7ny.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+abcstlouis.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+ace.mu.nu
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+amarillo.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+answers.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+aplus.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+awfulannouncing.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+ballotpedia.org
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+barbwire.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+bearingarms.com
+accuracy: 0.8333333333333334
+f1: 0.8571428571428571
+confusion matrix:
+[[2 0]
+ [1 3]]
+
+beforeitsnews.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+bipartisanreport.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+bit.ly
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+blogs.spectator.co.uk
+accuracy: 0.5
+f1: 0.6666666666666666
+confusion matrix:
+[[0 0]
+ [1 1]]
+
+boredomtherapy.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+bossip.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1 0]
+ [0 1]]
+
+ca.yahoo.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+canoe.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+channel955.iheart.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+churchleaders.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+citizen.co.za
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+city-data.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+coed.com
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[1 1]
+ [0 0]]
+
+conservativepost.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+crimewatchdaily.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+dcwhispers.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+democraticmoms.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+dieharddemocrat.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[2]]
+
+diply.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+eaglerising.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+elitedaily.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [1 0]]
+
+en-volve.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+ew.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+fierce.wearemitu.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+firstquarterfinance.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+fivethirtyeight.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+freedomsfinalstand.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+genius.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+goodmenproject.com
+accuracy: 0.3333333333333333
+f1: 0.5
+confusion matrix:
+[[0 2]
+ [0 1]]
+
+gq.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+gq.com.tr
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+grist.org
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+heavy.com
+accuracy: 0.38461538461538464
+f1: 0.19999999999999998
+confusion matrix:
+[[4 8]
+ [0 1]]
+
+highexistence.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+hollywoodlife.com
+accuracy: 0.8
+f1: 0.0
+confusion matrix:
+[[4 0]
+ [1 0]]
+
+honesttopaws.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+ijr.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1 0]
+ [0 2]]
+
+insider.foxnews.com
+accuracy: 0.5454545454545454
+f1: 0.0
+confusion matrix:
+[[6 2]
+ [3 0]]
+
+investmentwatchblog.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+kansascity.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+kfyo.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+knowyourmeme.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[3]]
+
+larrybrownsports.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+leoaffairs.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+local12.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+local21news.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+m.mysanantonio.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 2]
+ [0 0]]
+
+m.newser.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 2]
+ [0 0]]
+
+m.ranker.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+mamaroneck.dailyvoice.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+megamanfanon.wikia.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+merriam-webster.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+michaelwtravels.boardingarea.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+mobile.nytimes.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+nbc25news.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+news.antiwar.com
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[2 2]
+ [0 0]]
+
+news.dailytoast.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+news.iheart.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+news.sky.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+ntv.nation.co.ke
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+nylon.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+nypost.com
+accuracy: 0.3333333333333333
+f1: 0.28571428571428575
+confusion matrix:
+[[3 2]
+ [8 2]]
+
+okcfox.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+onlineathens.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [2 0]]
+
+opslens.com
+accuracy: 0.35714285714285715
+f1: 0.5263157894736842
+confusion matrix:
+[[0 0]
+ [9 5]]
+
+people.com
+accuracy: 0.2
+f1: 0.33333333333333337
+confusion matrix:
+[[0 4]
+ [0 1]]
+
+pjmedia.com
+accuracy: 0.4
+f1: 0.5714285714285715
+confusion matrix:
+[[0 0]
+ [3 2]]
+
+politicalcowboy.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+politifact.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+reuters.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+royalcentral.co.uk
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+rssfeeds.11alive.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+rye.dailyvoice.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+silverbelt.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+simbrothel2revival.wikia.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+simplemost.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+soaps.sheknows.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+spectator.org
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+sports.yahoo.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+sputniknews.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+straightfromthea.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+teamrock.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+texashillcountry.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+thatgrapejuice.net
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+thecelticblog.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+thehornnews.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+turtleboysports.com
+accuracy: 0.2857142857142857
+f1: 0.4444444444444444
+confusion matrix:
+[[0 1]
+ [4 2]]
+
+us.yahoo.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+wearemitu.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+www.abcactionnews.com
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[2 2]
+ [0 0]]
+
+www.accuweather.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.activebeat.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.afreesms.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.aljazeera.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.almasdarnews.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.americanow.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.americanpatriotdaily.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+www.americanrhetoric.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.americanthinker.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+www.amestrib.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.anncoulter.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.asianimage.co.uk
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.bbc.com
+accuracy: 0.5
+f1: 0.6666666666666666
+confusion matrix:
+[[0 0]
+ [1 1]]
+
+www.belfasttelegraph.co.uk
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.bizpacreview.com
+accuracy: 0.8
+f1: 0.8
+confusion matrix:
+[[2 1]
+ [0 2]]
+
+www.bradenton.com
+accuracy: 0.6
+f1: 0.0
+confusion matrix:
+[[3 1]
+ [1 0]]
+
+www.breakingisraelnews.com
+accuracy: 0.75
+f1: 0.8571428571428571
+confusion matrix:
+[[0 0]
+ [1 3]]
+
+www.businessinsider.com.au
+accuracy: 0.7142857142857143
+f1: 0.0
+confusion matrix:
+[[5 2]
+ [0 0]]
+
+www.businessinsider.in
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.capitalgazette.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.care2.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[2]]
+
+www.cbsnews.com
+accuracy: 0.8518518518518519
+f1: 0.0
+confusion matrix:
+[[23  1]
+ [ 3  0]]
+
+www.chicagoreader.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.chicagotribune.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.chipandco.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.circa.com
+accuracy: 0.625
+f1: 0.30769230769230765
+confusion matrix:
+[[13  8]
+ [ 1  2]]
+
+www.cnsnews.com
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[1 1]
+ [0 0]]
+
+www.commdiginews.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.complex.com
+accuracy: 0.75
+f1: 0.8
+confusion matrix:
+[[1 1]
+ [0 2]]
+
+www.cookingpanda.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.craveonline.co.uk
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.crossmap.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.dailydot.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[2]]
+
+www.dailyheraldtribune.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.dailymail.co.uk
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+www.darkpolitricks.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.dcclothesline.com
+accuracy: 0.7142857142857143
+f1: 0.8333333333333334
+confusion matrix:
+[[0 1]
+ [1 5]]
+
+www.dealmaxx.net
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[1 1]
+ [0 0]]
+
+www.disclose.tv
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.disneyfanatic.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.distractify.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.drudgereport.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.edmontonsun.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.endofthenet.org
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.express.co.uk
+accuracy: 0.6
+f1: 0.0
+confusion matrix:
+[[12  1]
+ [ 7  0]]
+
+www.fortmcmurraytoday.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.fox26houston.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.foxbusiness.com
+accuracy: 0.6666666666666666
+f1: 0.0
+confusion matrix:
+[[2 0]
+ [1 0]]
+
+www.foxla.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.foxnews.com
+accuracy: 0.3333333333333333
+f1: 0.3333333333333333
+confusion matrix:
+[[1 2]
+ [2 1]]
+
+www.freemalaysiatoday.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.ghanaweb.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.glamour.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [2 0]]
+
+www.gocomics.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.gopusa.com
+accuracy: 0.5
+f1: 0.6666666666666666
+confusion matrix:
+[[0 0]
+ [1 1]]
+
+www.gq.com
+accuracy: 0.8
+f1: 0.8571428571428571
+confusion matrix:
+[[1 1]
+ [0 3]]
+
+www.gq.com.cn
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.gvnews.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.hollywoodreporter.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.hotnewhiphop.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.idahostatesman.com
+accuracy: 0.3333333333333333
+f1: 0.0
+confusion matrix:
+[[1 0]
+ [2 0]]
+
+www.iloveoldschoolmusic.com
+accuracy: 0.5
+f1: 0.6666666666666666
+confusion matrix:
+[[0 0]
+ [1 1]]
+
+www.informationng.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.insidefutures.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [2 0]]
+
+www.iraq-businessnews.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.israelvideonetwork.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.jihadwatch.org
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.kansas.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.kayfabenews.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.kcra.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[5]]
+
+www.kdramastars.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.kentucky.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.ketv.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.keyt.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.kgun9.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+www.khaleejtimes.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.king5.com
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[3 3]
+ [0 0]]
+
+www.kiro7.com
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[3 3]
+ [0 0]]
+
+www.ktts.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.ladbible.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.laweekly.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+www.lbc.co.uk
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.legacy.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.liberalamerica.org
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+www.likesharetweet.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.littlethings.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[4]]
+
+www.londonderrysentinel.co.uk
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.maxim.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.metro.us
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.nbcnews.com
+accuracy: 0.875
+f1: 0.0
+confusion matrix:
+[[7 1]
+ [0 0]]
+
+www.newsbreakapp.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.newser.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 2]
+ [0 0]]
+
+www.newswest9.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.nfl.com
+accuracy: 0.875
+f1: 0.0
+confusion matrix:
+[[7 1]
+ [0 0]]
+
+www.nickiswift.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.norwichbulletin.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.nysun.com
+accuracy: 0.5
+f1: 0.6666666666666666
+confusion matrix:
+[[0 0]
+ [1 1]]
+
+www.nytimes.com
+accuracy: 0.7
+f1: 0.4
+confusion matrix:
+[[6 1]
+ [2 1]]
+
+www.opednews.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[7]]
+
+www.opslens.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.orlandosentinel.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.pastemagazine.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.poemhunter.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.politico.com
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[1 0]
+ [1 0]]
+
+www.politico.eu
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.politicususa.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.premiumtimesng.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.puppetstringnews.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+www.rap-up.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.rawstory.com
+accuracy: 0.4
+f1: 0.0
+confusion matrix:
+[[2 1]
+ [2 0]]
+
+www.realclearpolitics.com
+accuracy: 0.42857142857142855
+f1: 0.6
+confusion matrix:
+[[0 1]
+ [7 6]]
+
+www.realitytea.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.redcuprebellion.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.reviewjournal.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [2 0]]
+
+www.revolutionary-war-and-beyond.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.riograndesun.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.rollingstone.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1 0]
+ [0 3]]
+
+www.romper.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.sacbee.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+www.salon.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[8]]
+
+www.sanluisobispo.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.sherwoodparknews.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.si.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.smosh.com
+accuracy: 0.3333333333333333
+f1: 0.0
+confusion matrix:
+[[1 2]
+ [0 0]]
+
+www.snopes.com
+accuracy: 0.16666666666666666
+f1: 0.16666666666666669
+confusion matrix:
+[[ 1 10]
+ [ 0  1]]
+
+www.sny.tv
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.sportsjoe.ie
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+www.standard.co.uk
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.standard.net
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 0]
+ [1 0]]
+
+www.stanforddaily.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+www.star-telegram.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.tampabay.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.theconjugator.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.thegatewaypundit.com
+accuracy: 0.6875
+f1: 0.8148148148148148
+confusion matrix:
+[[ 0  0]
+ [ 5 11]]
+
+www.thehollywoodgossip.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+www.thewildcard.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.todayifoundout.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.trueactivist.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1 0]
+ [0 4]]
+
+www.tuko.co.ke
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.washingtonexaminer.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[2 0]
+ [0 1]]
+
+www.wbir.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.wcnc.com
+accuracy: 1.0
+f1: 1.0
+confusion matrix:
+[[1]]
+
+www.wearemitu.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.wearethemighty.com
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[1 1]
+ [0 0]]
+
+www.weaselzippers.us
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 2]
+ [0 0]]
+
+www.wesh.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.whio.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.wmur.com
+accuracy: 0.0
+f1: 0.0
+confusion matrix:
+[[0 1]
+ [0 0]]
+
+www.wpbf.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[2]]
+
+www.wptv.com
+accuracy: 0.5
+f1: 0.0
+confusion matrix:
+[[1 1]
+ [0 0]]
+
+www.wpxi.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.wsls.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.wthr.com
+accuracy: 0.75
+f1: 0.0
+confusion matrix:
+[[3 1]
+ [0 0]]
+
+www.wxii12.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.wxyz.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.wyff4.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+
+www.yahoo.com
+accuracy: 0.25
+f1: 0.0
+confusion matrix:
+[[1 3]
+ [0 0]]
+
+www.yourthurrock.com
+accuracy: 1.0
+f1: 0.0
+confusion matrix:
+[[1]]
+

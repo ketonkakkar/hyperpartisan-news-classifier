@@ -1,0 +1,532 @@
+x.shape= (?, 128)
+model.x = (?, 32, 128)
+model.y = (?, 2)
+Adam with norm clipping.
+Embeded sentences: 0test data metrics:
+
+ 32/600 [>.............................] - ETA: 36s
+160/600 [=======>......................] - ETA: 6s 
+600/600 [==============================] - 2s 4ms/step
+accuracy: 0.4633333337306976
+100percentfedup.com
+accuracy: 1.0
+10tv.com
+accuracy: 0.0
+411mania.com
+accuracy: 0.0
+abc7ny.com
+accuracy: 0.0
+abcstlouis.com
+accuracy: 0.0
+ace.mu.nu
+accuracy: 0.0
+amarillo.com
+accuracy: 1.0
+answers.com
+accuracy: 0.0
+aplus.com
+accuracy: 0.0
+awfulannouncing.com
+accuracy: 0.0
+ballotpedia.org
+accuracy: 1.0
+barbwire.com
+accuracy: 1.0
+bearingarms.com
+accuracy: 0.6666666666666666
+beforeitsnews.com
+accuracy: 1.0
+bipartisanreport.com
+accuracy: 1.0
+bit.ly
+accuracy: 1.0
+blogs.spectator.co.uk
+accuracy: 1.0
+boredomtherapy.com
+accuracy: 0.0
+bossip.com
+accuracy: 0.5
+ca.yahoo.com
+accuracy: 0.0
+canoe.com
+accuracy: 0.5
+channel955.iheart.com
+accuracy: 0.0
+churchleaders.com
+accuracy: 1.0
+citizen.co.za
+accuracy: 0.0
+city-data.com
+accuracy: 0.0
+coed.com
+accuracy: 0.0
+conservativepost.com
+accuracy: 1.0
+crimewatchdaily.com
+accuracy: 0.5
+dcwhispers.com
+accuracy: 1.0
+democraticmoms.com
+accuracy: 1.0
+dieharddemocrat.com
+accuracy: 1.0
+diply.com
+accuracy: 0.0
+eaglerising.com
+accuracy: 1.0
+elitedaily.com
+accuracy: 0.5
+en-volve.com
+accuracy: 1.0
+ew.com
+accuracy: 1.0
+fierce.wearemitu.com
+accuracy: 1.0
+firstquarterfinance.com
+accuracy: 0.0
+fivethirtyeight.com
+accuracy: 0.0
+freedomsfinalstand.com
+accuracy: 1.0
+genius.com
+accuracy: 0.0
+goodmenproject.com
+accuracy: 0.6666666666666666
+gq.com
+accuracy: 0.0
+gq.com.tr
+accuracy: 1.0
+grist.org
+accuracy: 1.0
+heavy.com
+accuracy: 0.07692307692307693
+highexistence.com
+accuracy: 1.0
+hollywoodlife.com
+accuracy: 0.2
+honesttopaws.com
+accuracy: 0.0
+ijr.com
+accuracy: 0.6666666666666666
+insider.foxnews.com
+accuracy: 0.2727272727272727
+investmentwatchblog.com
+accuracy: 1.0
+kansascity.com
+accuracy: 0.0
+kfyo.com
+accuracy: 0.0
+knowyourmeme.com
+accuracy: 0.0
+larrybrownsports.com
+accuracy: 0.0
+leoaffairs.com
+accuracy: 1.0
+local12.com
+accuracy: 1.0
+local21news.com
+accuracy: 1.0
+m.mysanantonio.com
+accuracy: 0.0
+m.newser.com
+accuracy: 0.5
+m.ranker.com
+accuracy: 0.0
+mamaroneck.dailyvoice.com
+accuracy: 0.0
+megamanfanon.wikia.com
+accuracy: 1.0
+merriam-webster.com
+accuracy: 0.0
+michaelwtravels.boardingarea.com
+accuracy: 0.0
+mobile.nytimes.com
+accuracy: 1.0
+nbc25news.com
+accuracy: 0.0
+news.antiwar.com
+accuracy: 0.0
+news.dailytoast.com
+accuracy: 1.0
+news.iheart.com
+accuracy: 1.0
+news.sky.com
+accuracy: 0.0
+ntv.nation.co.ke
+accuracy: 0.0
+nylon.com
+accuracy: 1.0
+nypost.com
+accuracy: 0.7333333333333333
+okcfox.com
+accuracy: 0.0
+onlineathens.com
+accuracy: 1.0
+opslens.com
+accuracy: 0.8571428571428571
+people.com
+accuracy: 0.2
+pjmedia.com
+accuracy: 0.8
+politicalcowboy.com
+accuracy: 1.0
+politifact.com
+accuracy: 0.0
+reuters.com
+accuracy: 1.0
+royalcentral.co.uk
+accuracy: 0.0
+rssfeeds.11alive.com
+accuracy: 0.0
+rye.dailyvoice.com
+accuracy: 0.0
+silverbelt.com
+accuracy: 0.0
+simbrothel2revival.wikia.com
+accuracy: 0.0
+simplemost.com
+accuracy: 0.0
+soaps.sheknows.com
+accuracy: 0.0
+spectator.org
+accuracy: 1.0
+sports.yahoo.com
+accuracy: 0.0
+sputniknews.com
+accuracy: 0.0
+straightfromthea.com
+accuracy: 0.0
+teamrock.com
+accuracy: 0.0
+texashillcountry.com
+accuracy: 0.0
+thatgrapejuice.net
+accuracy: 0.0
+thecelticblog.com
+accuracy: 0.0
+thehornnews.com
+accuracy: 1.0
+turtleboysports.com
+accuracy: 0.7142857142857143
+us.yahoo.com
+accuracy: 0.0
+wearemitu.com
+accuracy: 1.0
+www.abcactionnews.com
+accuracy: 0.5
+www.accuweather.com
+accuracy: 0.0
+www.activebeat.com
+accuracy: 1.0
+www.afreesms.com
+accuracy: 0.0
+www.aljazeera.com
+accuracy: 1.0
+www.almasdarnews.com
+accuracy: 0.0
+www.americanow.com
+accuracy: 0.0
+www.americanpatriotdaily.com
+accuracy: 1.0
+www.americanrhetoric.com
+accuracy: 0.0
+www.americanthinker.com
+accuracy: 1.0
+www.amestrib.com
+accuracy: 1.0
+www.anncoulter.com
+accuracy: 1.0
+www.asianimage.co.uk
+accuracy: 0.0
+www.bbc.com
+accuracy: 1.0
+www.belfasttelegraph.co.uk
+accuracy: 0.0
+www.bizpacreview.com
+accuracy: 0.4
+www.bradenton.com
+accuracy: 0.4
+www.breakingisraelnews.com
+accuracy: 1.0
+www.businessinsider.com.au
+accuracy: 0.0
+www.businessinsider.in
+accuracy: 0.0
+www.capitalgazette.com
+accuracy: 0.0
+www.care2.com
+accuracy: 1.0
+www.cbsnews.com
+accuracy: 0.18518518518518517
+www.chicagoreader.com
+accuracy: 1.0
+www.chicagotribune.com
+accuracy: 0.0
+www.chipandco.com
+accuracy: 0.0
+www.circa.com
+accuracy: 0.3333333333333333
+www.cnsnews.com
+accuracy: 0.5
+www.commdiginews.com
+accuracy: 0.0
+www.complex.com
+accuracy: 0.5
+www.cookingpanda.com
+accuracy: 0.0
+www.craveonline.co.uk
+accuracy: 0.0
+www.crossmap.com
+accuracy: 0.0
+www.dailydot.com
+accuracy: 1.0
+www.dailyheraldtribune.com
+accuracy: 0.0
+www.dailymail.co.uk
+accuracy: 0.0
+www.darkpolitricks.com
+accuracy: 0.0
+www.dcclothesline.com
+accuracy: 0.8571428571428571
+www.dealmaxx.net
+accuracy: 0.0
+www.disclose.tv
+accuracy: 1.0
+www.disneyfanatic.com
+accuracy: 1.0
+www.distractify.com
+accuracy: 0.0
+www.drudgereport.com
+accuracy: 0.0
+www.edmontonsun.com
+accuracy: 1.0
+www.endofthenet.org
+accuracy: 0.0
+www.express.co.uk
+accuracy: 0.5
+www.fortmcmurraytoday.com
+accuracy: 0.0
+www.fox26houston.com
+accuracy: 1.0
+www.foxbusiness.com
+accuracy: 0.3333333333333333
+www.foxla.com
+accuracy: 0.0
+www.foxnews.com
+accuracy: 0.5
+www.freemalaysiatoday.com
+accuracy: 0.0
+www.ghanaweb.com
+accuracy: 0.0
+www.glamour.com
+accuracy: 0.6666666666666666
+www.gocomics.com
+accuracy: 0.0
+www.gopusa.com
+accuracy: 1.0
+www.gq.com
+accuracy: 0.4
+www.gq.com.cn
+accuracy: 1.0
+www.gvnews.com
+accuracy: 1.0
+www.hollywoodreporter.com
+accuracy: 1.0
+www.hotnewhiphop.com
+accuracy: 0.0
+www.idahostatesman.com
+accuracy: 0.6666666666666666
+www.iloveoldschoolmusic.com
+accuracy: 1.0
+www.informationng.com
+accuracy: 0.0
+www.insidefutures.com
+accuracy: 1.0
+www.iraq-businessnews.com
+accuracy: 0.0
+www.israelvideonetwork.com
+accuracy: 1.0
+www.jihadwatch.org
+accuracy: 0.0
+www.kansas.com
+accuracy: 0.0
+www.kayfabenews.com
+accuracy: 0.0
+www.kcra.com
+accuracy: 1.0
+www.kdramastars.com
+accuracy: 0.0
+www.kentucky.com
+accuracy: 0.0
+www.ketv.com
+accuracy: 0.0
+www.keyt.com
+accuracy: 1.0
+www.kgun9.com
+accuracy: 1.0
+www.khaleejtimes.com
+accuracy: 1.0
+www.king5.com
+accuracy: 0.16666666666666666
+www.kiro7.com
+accuracy: 0.3333333333333333
+www.ktts.com
+accuracy: 0.0
+www.ladbible.com
+accuracy: 1.0
+www.laweekly.com
+accuracy: 0.0
+www.lbc.co.uk
+accuracy: 1.0
+www.legacy.com
+accuracy: 1.0
+www.liberalamerica.org
+accuracy: 1.0
+www.likesharetweet.com
+accuracy: 0.0
+www.littlethings.com
+accuracy: 0.25
+www.londonderrysentinel.co.uk
+accuracy: 0.0
+www.maxim.com
+accuracy: 1.0
+www.metro.us
+accuracy: 0.0
+www.nbcnews.com
+accuracy: 0.125
+www.newsbreakapp.com
+accuracy: 0.0
+www.newser.com
+accuracy: 0.5
+www.newswest9.com
+accuracy: 1.0
+www.nfl.com
+accuracy: 0.5
+www.nickiswift.com
+accuracy: 0.0
+www.norwichbulletin.com
+accuracy: 0.0
+www.nysun.com
+accuracy: 1.0
+www.nytimes.com
+accuracy: 0.3
+www.opednews.com
+accuracy: 0.7142857142857143
+www.opslens.com
+accuracy: 1.0
+www.orlandosentinel.com
+accuracy: 0.0
+www.pastemagazine.com
+accuracy: 1.0
+www.poemhunter.com
+accuracy: 0.0
+www.politico.com
+accuracy: 0.5
+www.politico.eu
+accuracy: 0.0
+www.politicususa.com
+accuracy: 0.0
+www.premiumtimesng.com
+accuracy: 0.0
+www.puppetstringnews.com
+accuracy: 1.0
+www.rap-up.com
+accuracy: 0.0
+www.rawstory.com
+accuracy: 0.4
+www.realclearpolitics.com
+accuracy: 0.9285714285714286
+www.realitytea.com
+accuracy: 1.0
+www.redcuprebellion.com
+accuracy: 1.0
+www.reviewjournal.com
+accuracy: 1.0
+www.revolutionary-war-and-beyond.com
+accuracy: 0.0
+www.riograndesun.com
+accuracy: 0.0
+www.rollingstone.com
+accuracy: 0.75
+www.romper.com
+accuracy: 0.0
+www.sacbee.com
+accuracy: 1.0
+www.salon.com
+accuracy: 0.875
+www.sanluisobispo.com
+accuracy: 1.0
+www.sherwoodparknews.com
+accuracy: 0.0
+www.si.com
+accuracy: 1.0
+www.smosh.com
+accuracy: 0.0
+www.snopes.com
+accuracy: 0.16666666666666666
+www.sny.tv
+accuracy: 0.0
+www.sportsjoe.ie
+accuracy: 1.0
+www.standard.co.uk
+accuracy: 0.0
+www.standard.net
+accuracy: 1.0
+www.stanforddaily.com
+accuracy: 1.0
+www.star-telegram.com
+accuracy: 1.0
+www.tampabay.com
+accuracy: 0.0
+www.theconjugator.com
+accuracy: 0.0
+www.thegatewaypundit.com
+accuracy: 1.0
+www.thehollywoodgossip.com
+accuracy: 0.5
+www.thewildcard.com
+accuracy: 1.0
+www.todayifoundout.com
+accuracy: 0.0
+www.trueactivist.com
+accuracy: 0.8
+www.tuko.co.ke
+accuracy: 1.0
+www.washingtonexaminer.com
+accuracy: 0.3333333333333333
+www.wbir.com
+accuracy: 0.0
+www.wcnc.com
+accuracy: 1.0
+www.wearemitu.com
+accuracy: 0.0
+www.wearethemighty.com
+accuracy: 0.0
+www.weaselzippers.us
+accuracy: 0.0
+www.wesh.com
+accuracy: 1.0
+www.whio.com
+accuracy: 0.0
+www.wmur.com
+accuracy: 0.0
+www.wpbf.com
+accuracy: 0.5
+www.wptv.com
+accuracy: 0.0
+www.wpxi.com
+accuracy: 0.0
+www.wsls.com
+accuracy: 0.0
+www.wthr.com
+accuracy: 0.75
+www.wxii12.com
+accuracy: 0.0
+www.wxyz.com
+accuracy: 1.0
+www.wyff4.com
+accuracy: 1.0
+www.yahoo.com
+accuracy: 0.0
+www.yourthurrock.com
+accuracy: 0.0

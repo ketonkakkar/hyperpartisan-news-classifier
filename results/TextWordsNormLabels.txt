@@ -1,0 +1,480 @@
+x.shape= (?, 128)
+model.x = (?, 128, 128)
+model.y = (?, 2)
+Adam with norm clipping.
+relabeled: 0.0
+21stcenturywire.com
+current label: 1
+relabeled: 0.0
+24dailynew.com
+current label: 1
+relabeled: 0.0
+4threvolutionarywar.wordpress.com
+current label: 1
+relabeled: 0.0
+abc11.com
+current label: 0
+relabeled: 0.0
+abqjournal.com
+current label: 0
+relabeled: 0.0
+aclj.org
+current label: 1
+relabeled: 0.0
+addictinginfo.org
+current label: 1
+relabeled: 0.0
+againstcronycapitalism.org
+current label: 1
+relabeled: 0.0
+aim.org
+current label: 1
+relabeled: 0.0
+alternet.org
+current label: 1
+relabeled: 0.0
+americanactionnews.com
+current label: 1
+relabeled: 0.0
+americanupdate.com
+current label: 1
+relabeled: 0.0
+americauncensored.com
+current label: 1
+relabeled: 0.0
+angrypatriotmovement.com
+current label: 1
+relabeled: 0.0
+anncoulter.com
+current label: 1
+relabeled: 0.0
+apnews.com
+current label: 0
+relabeled: 0.0
+baptistnews.com
+current label: 0
+relabeled: 0.0
+bb4sp.com
+current label: 1
+relabeled: 0.0
+beforeitsnews.com
+current label: 1
+relabeled: 0.0
+belfercenter.org
+current label: 0
+relabeled: 0.0
+bettergov.org
+current label: 0
+relabeled: 0.0
+bigamericannews.com
+current label: 1
+relabeled: 0.0
+bipartisanreport.com
+current label: 1
+relabeled: 0.0
+bizpacreview.com
+current label: 1
+relabeled: 0.0
+bluenationreview.com
+current label: 1
+relabeled: 0.0
+bluetribune.com
+current label: 1
+relabeled: 0.0
+bulletsfirst.net
+current label: 1
+relabeled: 0.0
+calwatchdog.com
+current label: 0
+relabeled: 0.0
+capoliticalreview.com
+current label: 0
+relabeled: 0.0
+chicagoreporter.com
+current label: 0
+relabeled: 0.0
+circa.com
+current label: 0
+relabeled: 0.0
+comicallyincorrect.com
+current label: 1
+relabeled: 0.0
+conservativedeplorable.com
+current label: 1
+relabeled: 0.0
+conservativefiringline.com
+current label: 1
+relabeled: 0.0
+conservativerevival.com
+current label: 1
+relabeled: 0.0
+counterpunch.org
+current label: 1
+relabeled: 0.0
+crooksandliars.com
+current label: 1
+relabeled: 0.0
+dailywire.com
+current label: 1
+relabeled: 0.0
+danaloeschradio.com
+current label: 1
+relabeled: 0.0
+dcclothesline.com
+current label: 1
+relabeled: 0.0
+deadstate.org
+current label: 1
+relabeled: 0.0
+democracyjournal.org
+current label: 1
+relabeled: 0.0
+dissentmagazine.org
+current label: 1
+relabeled: 0.0
+eaglerising.com
+current label: 1
+relabeled: 0.0
+egbertowillies.com
+current label: 1
+relabeled: 0.0
+eppc.org
+current label: 0
+relabeled: 0.0
+equalvoiceforfamilies.org
+current label: 1
+relabeled: 0.0
+everydayfeminism.com
+current label: 1
+relabeled: 0.0
+factcheck.org
+current label: 0
+relabeled: 0.0
+fair.org
+current label: 1
+relabeled: 0.0
+feministing.com
+current label: 1
+relabeled: 0.0
+foreignpolicyjournal.com
+current label: 0
+relabeled: 0.0
+forwardprogressives.com
+current label: 1
+relabeled: 0.0
+foxbusiness.com
+current label: 1
+relabeled: 0.0
+freebeacon.com
+current label: 1
+relabeled: 0.0
+freedomfirst.news
+current label: 1
+relabeled: 0.0
+freedomforce.com
+current label: 1
+relabeled: 0.0
+freedomsfinalstand.com
+current label: 1
+relabeled: 0.0
+fury.news
+current label: 1
+relabeled: 0.0
+girlsjustwannahaveguns.com
+current label: 1
+relabeled: 0.0
+greensboro.com
+current label: 0
+relabeled: 0.0
+hangthebankers.com
+current label: 1
+relabeled: 0.0
+humanevents.com
+current label: 1
+relabeled: 0.0
+infowars.com
+current label: 1
+relabeled: 0.0
+inthesetimes.com
+current label: 1
+relabeled: 0.0
+ivn.us
+current label: 0
+relabeled: 0.0
+jacobinmag.com
+current label: 1
+relabeled: 0.0
+joemygod.com
+current label: 1
+relabeled: 0.0
+juancole.com
+current label: 1
+relabeled: 0.0
+latimes.com
+current label: 0
+relabeled: 0.0
+latinorebels.com
+current label: 1
+relabeled: 0.0
+leftvoice.org
+current label: 1
+relabeled: 0.0
+legalinsurrection.com
+current label: 1
+relabeled: 0.0
+liberalplug.com
+current label: 1
+relabeled: 0.0
+libertyfederation.org
+current label: 1
+relabeled: 0.0
+libertyviral.com
+current label: 0
+relabeled: 0.0
+louderwithcrowder.com
+current label: 1
+relabeled: 0.0
+mainebeacon.com
+current label: 0
+relabeled: 0.0
+mediafiledc.com
+current label: 0
+relabeled: 0.0
+mediaite.com
+current label: 1
+relabeled: 0.0
+mediamatters.org
+current label: 1
+relabeled: 0.0
+menrec.com
+current label: 1
+relabeled: 0.0
+mercurynews.com
+current label: 0
+relabeled: 0.0
+motherjones.com
+current label: 1
+relabeled: 0.0
+mprnews.org
+current label: 0
+relabeled: 0.0
+mrc.org
+current label: 1
+relabeled: 0.0
+natmonitor.com
+current label: 0
+relabeled: 0.0
+nbcnews.com
+current label: 0
+relabeled: 0.0
+newpol.org
+current label: 1
+relabeled: 0.0
+newsandguts.com
+current label: 0
+relabeled: 0.0
+newscorpse.com
+current label: 1
+relabeled: 0.0
+newsline.com
+current label: 0
+relabeled: 0.0
+newstarget.com
+current label: 1
+relabeled: 0.0
+nolabels.org
+current label: 0
+relabeled: 0.0
+nowtheendbegins.com
+current label: 1
+relabeled: 0.0
+occupy.com
+current label: 1
+relabeled: 0.0
+occupydemocrats.com
+current label: 1
+relabeled: 0.0
+offthemainpage.com
+current label: 1
+relabeled: 0.0
+patriotretort.com
+current label: 1
+relabeled: 0.0
+pewresearch.org
+current label: 0
+relabeled: 0.0
+politicalblindspot.com
+current label: 1
+relabeled: 0.0
+politicalillusionsexposed.com
+current label: 1
+relabeled: 0.0
+politichicks.com
+current label: 1
+relabeled: 0.0
+politifact.com
+current label: 0
+relabeled: 0.0
+powderedwigsociety.com
+current label: 1
+relabeled: 0.0
+powerlineblog.com
+current label: 1
+relabeled: 0.0
+poynter.org
+current label: 0
+relabeled: 0.0
+pri.org
+current label: 0
+relabeled: 0.0
+reclaimdemocracy.org
+current label: 1
+relabeled: 0.0
+resistancereport.com
+current label: 1
+relabeled: 0.0
+reuters.com
+current label: 0
+relabeled: 0.0
+revealingpolitics.com
+current label: 1
+relabeled: 0.0
+reviewjournal.com
+current label: 0
+relabeled: 0.0
+rightwingnews.com
+current label: 1
+relabeled: 0.0
+rightwingwatch.org
+current label: 1
+relabeled: 0.0
+rinf.com
+current label: 1
+relabeled: 0.0
+rushlimbaugh.com
+current label: 1
+relabeled: 0.0
+santafenewmexican.com
+current label: 0
+relabeled: 0.0
+secretsofthefed.com
+current label: 1
+relabeled: 0.0
+sfchronicle.com
+current label: 0
+relabeled: 0.0
+shark-tank.com
+current label: 1
+relabeled: 0.0
+silenceisconsent.net
+current label: 1
+relabeled: 0.0
+spartareport.com
+current label: 1
+relabeled: 0.0
+studionewsnetwork.com
+current label: 0
+relabeled: 0.0
+talkingpointsmemo.com
+current label: 1
+relabeled: 0.0
+tammybruce.com
+current label: 1
+relabeled: 0.0
+teaparty.org
+current label: 1
+relabeled: 0.0
+theamericancause.org
+current label: 1
+relabeled: 0.0
+theamericanmirror.com
+current label: 1
+relabeled: 0.0
+thedailybeast.com
+current label: 1
+relabeled: 0.0
+thefederalistpapers.org
+current label: 1
+relabeled: 0.0
+thefrisky.com
+current label: 1
+relabeled: 0.0
+thegoldwater.com
+current label: 1
+relabeled: 0.0
+thenewcivilrightsmovement.com
+current label: 1
+relabeled: 0.0
+thepeoplesview.net
+current label: 1
+relabeled: 0.0
+thepoliticalinsider.com
+current label: 1
+relabeled: 0.0
+thepopulist.buzz
+current label: 1
+relabeled: 0.0
+therealnews.com
+current label: 1
+relabeled: 0.0
+therealside.com
+current label: 1
+relabeled: 0.0
+therebel.media
+current label: 1
+relabeled: 0.0
+theroot.com
+current label: 1
+relabeled: 0.0
+thetrace.org
+current label: 0
+relabeled: 0.0
+thewhim.com
+current label: 0
+relabeled: 0.0
+thinkprogress.org
+current label: 1
+relabeled: 0.0
+towleroad.com
+current label: 1
+relabeled: 0.0
+trofire.com
+current label: 1
+relabeled: 0.0
+truthdig.com
+current label: 1
+relabeled: 0.0
+truthrevolt.org
+current label: 1
+relabeled: 0.0
+upi.com
+current label: 0
+relabeled: 0.0
+upworthy.com
+current label: 1
+relabeled: 0.0
+usainfonews.com
+current label: 1
+relabeled: 0.0
+valleynewslive.com
+current label: 0
+relabeled: 0.0
+washingtonblade.com
+current label: 0
+relabeled: 0.0
+washingtonmonthly.com
+current label: 1
+relabeled: 0.0
+washingtonpost.com
+current label: 0
+relabeled: 0.0
+washingtontimes.com
+current label: 1
+relabeled: 0.0
+wnyc.org
+current label: 0
+relabeled: 0.0
+yesmagazine.org
+current label: 1
+relabeled: 0.0
+Embeded sentences: 0Embeded sentences: 100000Embeded sentences: 200000Embeded sentences: 300000Embeded sentences: 400000Embeded sentences: 500000Embeded sentences: 600000Embeded sentences: 700000Embeded sentences: 800000Embeded sentences: 900000Embeded sentences: 1000000Embeded sentences: 1100000Embeded sentences: 1200000Embeded sentences: 1300000Embeded sentences: 1400000Embeded sentences: 1500000Embeded sentences: 1600000Embeded sentences: 1700000Embeded sentences: 1800000Embeded sentences: 1900000Embeded sentences: 2000000Embeded sentences: 2100000Embeded sentences: 2200000Embeded sentences: 2300000Embeded sentences: 2400000Embeded sentences: 2500000Embeded sentences: 2600000Embeded sentences: 2700000Embeded sentences: 2800000Embeded sentences: 2900000Embeded sentences: 3000000Embeded sentences: 3100000Embeded sentences: 3200000Embeded sentences: 3300000Embeded sentences: 3400000Embeded sentences: 3500000Embeded sentences: 3600000Embeded sentences: 3700000Embeded sentences: 3800000Embeded sentences: 3900000Embeded sentences: 4000000Embeded sentences: 4100000Embeded sentences: 4200000Embeded sentences: 4300000Embeded sentences: 4400000Embeded sentences: 4500000Embeded sentences: 4600000Embeded sentences: 4700000Embeded sentences: 4800000Embeded sentences: 4900000Embeded sentences: 5000000Embeded sentences: 5100000Embeded sentences: 5200000Embeded sentences: 5300000Embeded sentences: 5400000Embeded sentences: 5500000Embeded sentences: 5600000Embeded sentences: 5700000Embeded sentences: 5800000Embeded sentences: 5900000Embeded sentences: 6000000Embeded sentences: 6100000Embeded sentences: 6200000Embeded sentences: 6300000Embeded sentences: 6400000Embeded sentences: 6500000Embeded sentences: 6600000Embeded sentences: 6700000Embeded sentences: 6800000Embeded sentences: 6900000Embeded sentences: 7000000Embeded sentences: 7100000Embeded sentences: 7200000Embeded sentences: 7300000Embeded sentences: 7400000Embeded sentences: 7500000Embeded sentences: 7600000Embeded sentences: 7700000Embeded sentences: 7800000Embeded sentences: 7900000Embeded sentences: 8000000Embeded sentences: 8100000Embeded sentences: 8200000Embeded sentences: 8300000Embeded sentences: 8400000Embeded sentences: 8500000Embeded sentences: 8600000Embeded sentences: 8700000Embeded sentences: 8800000Embeded sentences: 8900000Embeded sentences: 9000000Embeded sentences: 9100000Embeded sentences: 9200000Embeded sentences: 9300000Embeded sentences: 9400000Embeded sentences: 9500000Embeded sentences: 9600000Embeded sentences: 9700000Embeded sentences: 9800000Embeded sentences: 9900000Embeded sentences: 10000000Embeded sentences: 10100000Embeded sentences: 10200000Embeded sentences: 10300000Embeded sentences: 10400000Embeded sentences: 10500000Embeded sentences: 10600000Embeded sentences: 10700000Embeded sentences: 10800000Embeded sentences: 10900000Embeded sentences: 11000000Embeded sentences: 11100000Embeded sentences: 11200000Embeded sentences: 11300000Embeded sentences: 11400000Embeded sentences: 11500000Embeded sentences: 11600000Embeded sentences: 11700000Embeded sentences: 11800000Embeded sentences: 11900000Embeded sentences: 12000000Embeded sentences: 12100000Embeded sentences: 12200000Embeded sentences: 12300000Embeded sentences: 12400000Embeded sentences: 12500000Embeded sentences: 12600000Embeded sentences: 12700000Embeded sentences: 12800000Embeded sentences: 12900000Embeded sentences: 13000000Embeded sentences: 13100000Embeded sentences: 13200000Embeded sentences: 13300000Embeded sentences: 13400000Embeded sentences: 13500000Embeded sentences: 13600000Embeded sentences: 13700000Embeded sentences: 13800000Embeded sentences: 13900000Embeded sentences: 14000000Embeded sentences: 14100000Embeded sentences: 14200000Embeded sentences: 14300000Embeded sentences: 14400000Embeded sentences: 14500000Embeded sentences: 14600000Embeded sentences: 14700000Embeded sentences: 14800000Embeded sentences: 14900000Embeded sentences: 15000000Embeded sentences: 15100000Embeded sentences: 15200000Embeded sentences: 15300000Embeded sentences: 15400000Embeded sentences: 15500000Embeded sentences: 15600000Embeded sentences: 15700000Embeded sentences: 15800000Embeded sentences: 15900000Embeded sentences: 16000000Embeded sentences: 16100000Embeded sentences: 16200000Embeded sentences: 16300000Embeded sentences: 16400000Embeded sentences: 16500000Embeded sentences: 16600000Embeded sentences: 16700000Embeded sentences: 16800000Embeded sentences: 16900000Embeded sentences: 17000000Embeded sentences: 17100000Embeded sentences: 17200000Embeded sentences: 17300000Embeded sentences: 17400000Embeded sentences: 17500000Embeded sentences: 17600000Embeded sentences: 17700000Embeded sentences: 17800000Embeded sentences: 17900000Embeded sentences: 18000000Embeded sentences: 18100000Embeded sentences: 18200000Embeded sentences: 18300000Embeded sentences: 18400000Embeded sentences: 18500000Embeded sentences: 18600000Embeded sentences: 18700000Embeded sentences: 18800000Embeded sentences: 18900000Embeded sentences: 19000000Embeded sentences: 19100000Embeded sentences: 19200000Embeded sentences: 19300000Embeded sentences: 19400000Embeded sentences: 19500000Embeded sentences: 19600000Embeded sentences: 19700000Embeded sentences: 19800000Embeded sentences: 19900000Embeded sentences: 20000000Embeded sentences: 20100000Embeded sentences: 20200000Embeded sentences: 20300000Embeded sentences: 20400000Embeded sentences: 20500000Embeded sentences: 20600000Embeded sentences: 20700000Embeded sentences: 20800000Embeded sentences: 20900000Embeded sentences: 21000000Embeded sentences: 21100000Embeded sentences: 21200000Embeded sentences: 21300000Embeded sentences: 21400000Embeded sentences: 21500000Embeded sentences: 21600000Embeded sentences: 21700000Embeded sentences: 21800000Embeded sentences: 21900000Embeded sentences: 22000000Embeded sentences: 22100000Embeded sentences: 22200000Embeded sentences: 22300000Embeded sentences: 22400000Embeded sentences: 22500000Embeded sentences: 22600000Embeded sentences: 22700000Embeded sentences: 22800000Embeded sentences: 22900000Embeded sentences: 23000000Embeded sentences: 23100000Embeded sentences: 23200000Embeded sentences: 23300000Embeded sentences: 23400000Embeded sentences: 23500000Embeded sentences: 23600000Embeded sentences: 23700000Embeded sentences: 23800000Embeded sentences: 23900000Embeded sentences: 24000000Embeded sentences: 24100000Embeded sentences: 24200000Embeded sentences: 24300000Embeded sentences: 24400000Embeded sentences: 24500000Embeded sentences: 24600000Embeded sentences: 24700000Embeded sentences: 24800000Embeded sentences: 24900000Embeded sentences: 25000000Embeded sentences: 25100000Embeded sentences: 25200000Embeded sentences: 25300000Embeded sentences: 25400000Embeded sentences: 25500000Embeded sentences: 25600000Embeded sentences: 25700000Embeded sentences: 25800000Embeded sentences: 25900000Embeded sentences: 26000000Embeded sentences: 26100000Embeded sentences: 26200000Embeded sentences: 26300000Embeded sentences: 26400000Embeded sentences: 26500000Embeded sentences: 26600000Embeded sentences: 26700000Embeded sentences: 26800000Embeded sentences: 26900000Embeded sentences: 27000000Embeded sentences: 27100000Embeded sentences: 27200000Embeded sentences: 27300000Embeded sentences: 27400000Embeded sentences: 27500000Embeded sentences: 27600000Embeded sentences: 27700000Embeded sentences: 27800000Embeded sentences: 27900000Embeded sentences: 28000000Embeded sentences: 28100000Embeded sentences: 28200000Embeded sentences: 28300000Embeded sentences: 28400000Embeded sentences: 28500000Embeded sentences: 28600000Embeded sentences: 28700000Embeded sentences: 28800000Embeded sentences: 28900000Embeded sentences: 29000000Embeded sentences: 29100000Embeded sentences: 29200000Embeded sentences: 29300000Embeded sentences: 29400000Embeded sentences: 29500000Embeded sentences: 29600000Embeded sentences: 29700000Embeded sentences: 29800000Embeded sentences: 29900000Embeded sentences: 30000000Embeded sentences: 30100000Embeded sentences: 30200000Embeded sentences: 30300000Embeded sentences: 30400000Embeded sentences: 30500000Embeded sentences: 30600000Embeded sentences: 30700000Embeded sentences: 30800000Embeded sentences: 30900000Embeded sentences: 31000000Embeded sentences: 31100000Embeded sentences: 31200000Embeded sentences: 31300000Embeded sentences: 31400000Embeded sentences: 31500000Embeded sentences: 31600000Embeded sentences: 31700000Embeded sentences: 31800000Embeded sentences: 31900000Embeded sentences: 32000000Embeded sentences: 32100000Embeded sentences: 32200000Embeded sentences: 32300000Embeded sentences: 32400000Embeded sentences: 32500000Embeded sentences: 32600000Embeded sentences: 32700000Embeded sentences: 32800000Embeded sentences: 32900000Embeded sentences: 33000000Embeded sentences: 33100000Embeded sentences: 33200000Embeded sentences: 33300000Embeded sentences: 33400000Embeded sentences: 33500000Embeded sentences: 33600000Embeded sentences: 33700000Embeded sentences: 33800000Embeded sentences: 33900000Embeded sentences: 34000000Embeded sentences: 34100000Embeded sentences: 34200000Embeded sentences: 34300000Embeded sentences: 34400000Embeded sentences: 34500000Embeded sentences: 34600000Embeded sentences: 34700000Embeded sentences: 34800000Embeded sentences: 34900000Embeded sentences: 35000000Embeded sentences: 35100000Embeded sentences: 35200000Embeded sentences: 35300000Embeded sentences: 35400000Embeded sentences: 35500000Embeded sentences: 35600000Embeded sentences: 35700000Embeded sentences: 35800000Embeded sentences: 35900000Embeded sentences: 36000000Embeded sentences: 36100000Embeded sentences: 36200000Embeded sentences: 36300000Embeded sentences: 36400000Embeded sentences: 36500000Embeded sentences: 36600000Embeded sentences: 36700000Embeded sentences: 36800000Embeded sentences: 36900000Embeded sentences: 37000000Embeded sentences: 37100000Embeded sentences: 37200000Embeded sentences: 37300000Embeded sentences: 37400000Embeded sentences: 37500000Embeded sentences: 37600000Embeded sentences: 37700000Embeded sentences: 37800000Embeded sentences: 37900000Embeded sentences: 38000000Embeded sentences: 38100000Embeded sentences: 38200000Embeded sentences: 38300000Embeded sentences: 38400000Embeded sentences: 38500000Embeded sentences: 38600000Embeded sentences: 38700000Embeded sentences: 38800000Embeded sentences: 38900000Embeded sentences: 39000000Embeded sentences: 39100000Embeded sentences: 39200000Embeded sentences: 39300000Embeded sentences: 39400000Embeded sentences: 39500000Embeded sentences: 39600000Embeded sentences: 39700000Embeded sentences: 39800000Embeded sentences: 39900000Embeded sentences: 40000000Embeded sentences: 40100000Embeded sentences: 40200000Embeded sentences: 40300000Embeded sentences: 40400000Embeded sentences: 40500000Embeded sentences: 40600000Embeded sentences: 40700000Embeded sentences: 40800000Embeded sentences: 40900000Embeded sentences: 41000000Embeded sentences: 41100000Embeded sentences: 41200000Embeded sentences: 41300000Embeded sentences: 41400000Embeded sentences: 41500000Embeded sentences: 41600000Embeded sentences: 41700000Embeded sentences: 41800000Embeded sentences: 41900000Embeded sentences: 42000000Embeded sentences: 42100000Embeded sentences: 42200000Embeded sentences: 42300000Embeded sentences: 42400000Embeded sentences: 42500000Embeded sentences: 42600000Embeded sentences: 42700000Embeded sentences: 42800000Embeded sentences: 42900000Embeded sentences: 43000000Embeded sentences: 43100000Embeded sentences: 43200000Embeded sentences: 43300000Embeded sentences: 43400000Embeded sentences: 43500000Embeded sentences: 43600000Embeded sentences: 43700000Embeded sentences: 43800000Embeded sentences: 43900000Embeded sentences: 44000000Embeded sentences: 44100000Embeded sentences: 44200000Embeded sentences: 44300000Embeded sentences: 44400000Embeded sentences: 44500000Embeded sentences: 44600000Embeded sentences: 44700000Embeded sentences: 44800000Embeded sentences: 44900000Embeded sentences: 45000000Embeded sentences: 45100000Embeded sentences: 45200000Embeded sentences: 45300000Embeded sentences: 45400000Embeded sentences: 45500000Embeded sentences: 45600000Embeded sentences: 45700000Embeded sentences: 45800000Embeded sentences: 45900000Embeded sentences: 46000000Embeded sentences: 46100000Embeded sentences: 46200000Embeded sentences: 46300000Embeded sentences: 46400000Embeded sentences: 46500000Embeded sentences: 46600000Embeded sentences: 46700000Embeded sentences: 46800000Embeded sentences: 46900000Embeded sentences: 47000000Embeded sentences: 47100000Embeded sentences: 47200000Embeded sentences: 47300000Embeded sentences: 47400000Embeded sentences: 47500000Embeded sentences: 47600000Embeded sentences: 47700000Embeded sentences: 47800000Embeded sentences: 47900000Embeded sentences: 48000000Embeded sentences: 48100000Embeded sentences: 48200000Embeded sentences: 48300000Embeded sentences: 48400000Embeded sentences: 48500000Embeded sentences: 48600000Embeded sentences: 48700000Embeded sentences: 48800000Embeded sentences: 48900000Embeded sentences: 49000000Embeded sentences: 49100000Embeded sentences: 49200000Embeded sentences: 49300000Embeded sentences: 49400000Embeded sentences: 49500000Embeded sentences: 49600000Embeded sentences: 49700000Embeded sentences: 49800000Embeded sentences: 49900000Embeded sentences: 50000000Embeded sentences: 50100000Embeded sentences: 50200000Embeded sentences: 50300000Embeded sentences: 50400000Embeded sentences: 50500000Embeded sentences: 50600000Embeded sentences: 50700000Embeded sentences: 50800000Embeded sentences: 50900000Embeded sentences: 51000000Embeded sentences: 51100000Embeded sentences: 51200000Embeded sentences: 51300000Embeded sentences: 51400000Embeded sentences: 51500000Embeded sentences: 51600000Embeded sentences: 51700000Embeded sentences: 51800000Embeded sentences: 51900000Embeded sentences: 52000000Embeded sentences: 52100000Embeded sentences: 52200000Embeded sentences: 52300000Embeded sentences: 52400000Embeded sentences: 52500000Embeded sentences: 52600000Embeded sentences: 52700000Embeded sentences: 52800000Embeded sentences: 52900000Embeded sentences: 53000000Embeded sentences: 53100000Embeded sentences: 53200000Embeded sentences: 53300000Embeded sentences: 53400000Embeded sentences: 53500000Embeded sentences: 53600000Embeded sentences: 53700000Embeded sentences: 53800000Embeded sentences: 53900000Embeded sentences: 54000000Embeded sentences: 54100000Embeded sentences: 54200000Embeded sentences: 54300000Embeded sentences: 54400000Embeded sentences: 54500000Embeded sentences: 54600000Embeded sentences: 54700000Embeded sentences: 54800000Embeded sentences: 54900000Embeded sentences: 55000000Embeded sentences: 55100000Embeded sentences: 55200000Embeded sentences: 55300000Embeded sentences: 55400000Embeded sentences: 55500000Embeded sentences: 55600000Embeded sentences: 55700000Embeded sentences: 55800000Embeded sentences: 55900000Embeded sentences: 56000000Embeded sentences: 56100000Embeded sentences: 56200000Embeded sentences: 56300000Embeded sentences: 56400000Embeded sentences: 56500000Embeded sentences: 56600000Embeded sentences: 56700000Embeded sentences: 56800000Embeded sentences: 56900000Embeded sentences: 57000000Embeded sentences: 57100000Embeded sentences: 57200000Embeded sentences: 57300000Embeded sentences: 57400000Embeded sentences: 57500000Embeded sentences: 57600000Embeded sentences: 57700000Embeded sentences: 57800000Embeded sentences: 57900000Embeded sentences: 58000000Embeded sentences: 58100000Embeded sentences: 58200000Embeded sentences: 58300000Embeded sentences: 58400000Embeded sentences: 58500000Embeded sentences: 58600000Embeded sentences: 58700000Embeded sentences: 58800000Embeded sentences: 58900000Embeded sentences: 59000000Embeded sentences: 59100000Embeded sentences: 59200000Embeded sentences: 59300000Embeded sentences: 59400000Embeded sentences: 59500000Embeded sentences: 59600000Embeded sentences: 59700000Embeded sentences: 59800000Embeded sentences: 59900000Embeded sentences: 60000000Embeded sentences: 60100000Embeded sentences: 60200000Embeded sentences: 60300000Embeded sentences: 60400000Embeded sentences: 60500000Embeded sentences: 60600000Embeded sentences: 60700000Embeded sentences: 60800000Embeded sentences: 60900000Embeded sentences: 61000000Embeded sentences: 61100000Embeded sentences: 61200000Embeded sentences: 61300000Embeded sentences: 61400000Embeded sentences: 61500000Embeded sentences: 61600000Embeded sentences: 61700000Embeded sentences: 61800000Embeded sentences: 61900000Embeded sentences: 62000000Embeded sentences: 62100000Embeded sentences: 62200000Embeded sentences: 62300000Embeded sentences: 62400000Embeded sentences: 62500000Embeded sentences: 62600000Embeded sentences: 62700000Embeded sentences: 62800000Embeded sentences: 62900000Embeded sentences: 63000000Embeded sentences: 63100000Embeded sentences: 63200000Embeded sentences: 63300000Embeded sentences: 63400000Embeded sentences: 63500000Embeded sentences: 63600000Embeded sentences: 63700000Embeded sentences: 63800000Embeded sentences: 63900000Embeded sentences: 64000000Embeded sentences: 64100000Embeded sentences: 64200000Embeded sentences: 64300000Embeded sentences: 64400000Embeded sentences: 64500000Embeded sentences: 64600000Embeded sentences: 64700000Embeded sentences: 64800000Embeded sentences: 64900000Embeded sentences: 65000000Embeded sentences: 65100000Embeded sentences: 65200000Embeded sentences: 65300000Embeded sentences: 65400000Embeded sentences: 65500000Embeded sentences: 65600000Embeded sentences: 65700000Embeded sentences: 65800000Embeded sentences: 65900000Embeded sentences: 66000000Embeded sentences: 66100000Embeded sentences: 66200000Embeded sentences: 66300000Embeded sentences: 66400000Embeded sentences: 66500000Embeded sentences: 66600000Embeded sentences: 66700000Embeded sentences: 66800000Embeded sentences: 66900000Embeded sentences: 67000000Embeded sentences: 67100000Embeded sentences: 67200000Embeded sentences: 67300000Embeded sentences: 67400000Embeded sentences: 67500000Embeded sentences: 67600000Embeded sentences: 67700000Embeded sentences: 67800000Embeded sentences: 67900000Embeded sentences: 68000000Embeded sentences: 68100000Embeded sentences: 68200000Embeded sentences: 68300000Embeded sentences: 68400000Embeded sentences: 68500000Embeded sentences: 68600000Embeded sentences: 68700000Embeded sentences: 68800000Embeded sentences: 68900000Embeded sentences: 69000000Embeded sentences: 69100000Embeded sentences: 69200000Embeded sentences: 69300000Embeded sentences: 69400000Embeded sentences: 69500000Embeded sentences: 69600000Embeded sentences: 69700000Embeded sentences: 69800000Embeded sentences: 69900000Embeded sentences: 70000000Embeded sentences: 70100000Embeded sentences: 70200000Embeded sentences: 70300000Embeded sentences: 70400000Embeded sentences: 70500000Embeded sentences: 70600000Embeded sentences: 70700000Embeded sentences: 70800000Embeded sentences: 70900000Embeded sentences: 71000000Embeded sentences: 71100000Embeded sentences: 71200000Embeded sentences: 71300000Embeded sentences: 71400000Embeded sentences: 71500000Embeded sentences: 71600000Embeded sentences: 71700000Embeded sentences: 71800000Embeded sentences: 71900000Embeded sentences: 72000000Embeded sentences: 72100000Embeded sentences: 72200000Embeded sentences: 72300000Embeded sentences: 72400000Embeded sentences: 72500000Embeded sentences: 72600000Embeded sentences: 72700000Embeded sentences: 72800000Embeded sentences: 72900000Embeded sentences: 73000000Embeded sentences: 73100000Embeded sentences: 73200000Embeded sentences: 73300000Embeded sentences: 73400000Embeded sentences: 73500000Embeded sentences: 73600000Embeded sentences: 73700000Embeded sentences: 73800000Embeded sentences: 73900000Embeded sentences: 74000000Embeded sentences: 74100000Embeded sentences: 74200000Embeded sentences: 74300000Embeded sentences: 74400000Embeded sentences: 74500000Embeded sentences: 74600000Embeded sentences: 74700000

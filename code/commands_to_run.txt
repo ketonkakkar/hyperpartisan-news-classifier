@@ -1,0 +1,25 @@
+Commands to run:
+
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --model TitleSentences --reload TitleSentences2Agree > results/TitleSentences2AgreeByPublisherEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --model TextSentences --reload TextSentences2Agree > results/TextSentences2AgreeByPublisherEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --model TitleSentences --reload TitleSentencesNormLabels > results/TitleSentencesNormByPublisherEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --model TitleWords --reload TitleWordsNormLabels > results/TitleWordsNormByPublisherEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --model TitleWords --reload TitleWords2Agree > results/TitleWords2AgreeByPublisherEval.txt
+
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --model TitleSentences --reload TitleSentencesNormLabels > results/TitleSentencesNormByArticleEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --test_size 600 --model TextSentences --reload TextSentences2Agree > results/TextSentences2AgreeByArticleEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --test_size 600 --model TitleSentences --reload TitleSentences2Agree > results/TitleSentences2AgreeByArticleEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --test_size 600 --model TitleWords --reload TitleWordsNormLabels > results/TitleWordsNormByArticleEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --test_size 600 --model TitleWords --reload TitleWords2Agree > results/TitleWords2AgreeByArticleEval.txt
+
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --test_size 600 --model TextSentences --reload TextSentencesNormLabels > results/TextSentencesNormByArticleEval.txt
+
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --test_size 600 --model TitleSentences --reload TitleSentences2Agree > results/TitleSentences2AgreeByArticleEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --model TitleSentences --reload TitleSentences2Agree > results/TitleSentences2AgreeByPublisherEval.txt
+
+
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --model Links --reload NewLinks10000NormLabels > results/Links10000NormLabelsByPublisherEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --model Links --reload NewLinks100002Agree > results/Links100002AgreeByPublisherEval.txt
+
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --test_size 600 --model Links --reload NewLinks10000NormLabels > results/Links10000NormLabelsByArticleEval.txt
+python3 code/train_model.py --vocabulary /data/semeval/training/vocab.txt --xvalidate 6 --vocab_size 10000 --test_size 600 --model Links --reload NewLinks100002Agree > results/Links100002AgreeByArticleEval.txt
